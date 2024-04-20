@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Jacques Francois
+- Font Author: Copyright (c) 2011, Cyreal (www.cyreal.org a@cyreal.org) with Reserved Font Name 'Jacques Francois'
+- Font Source: https://fonts.gstatic.com/s/jacquesfrancois/v24/ZXu9e04ZvKeOOHIe1TMahbcIU2cgmcPqoeRWfbs.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
