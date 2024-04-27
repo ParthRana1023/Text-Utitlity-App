@@ -39,9 +39,7 @@ export default function Navbar(props) {
           </ul>
           <button
             type="button"
-            class={`btn btn-${
-              props.mode === "light" ? "primary" : "light"
-            } mx-3`}
+            class={`btn btn-${props.mode === "light" ? "dark" : "light"} mx-3`}
             onClick={props.toggleMode}
           >
             {props.mode === "light" ? "Dark Mode" : "Light Mode"}
